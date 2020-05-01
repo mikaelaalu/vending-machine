@@ -1,0 +1,11 @@
+/Users/mikaelalundsgard/RiderProjects/AwesomeProject/AwesomeProject/obj/Debug/netcoreapp3.1/AwesomeProject.csprojAssemblyReference.cache
+/Users/mikaelalundsgard/RiderProjects/AwesomeProject/AwesomeProject/obj/Debug/netcoreapp3.1/AwesomeProject.AssemblyInfoInputs.cache
+/Users/mikaelalundsgard/RiderProjects/AwesomeProject/AwesomeProject/obj/Debug/netcoreapp3.1/AwesomeProject.AssemblyInfo.cs
+/Users/mikaelalundsgard/RiderProjects/AwesomeProject/AwesomeProject/bin/Debug/netcoreapp3.1/AwesomeProject
+/Users/mikaelalundsgard/RiderProjects/AwesomeProject/AwesomeProject/bin/Debug/netcoreapp3.1/AwesomeProject.deps.json
+/Users/mikaelalundsgard/RiderProjects/AwesomeProject/AwesomeProject/bin/Debug/netcoreapp3.1/AwesomeProject.runtimeconfig.json
+/Users/mikaelalundsgard/RiderProjects/AwesomeProject/AwesomeProject/bin/Debug/netcoreapp3.1/AwesomeProject.runtimeconfig.dev.json
+/Users/mikaelalundsgard/RiderProjects/AwesomeProject/AwesomeProject/bin/Debug/netcoreapp3.1/AwesomeProject.dll
+/Users/mikaelalundsgard/RiderProjects/AwesomeProject/AwesomeProject/bin/Debug/netcoreapp3.1/AwesomeProject.pdb
+/Users/mikaelalundsgard/RiderProjects/AwesomeProject/AwesomeProject/obj/Debug/netcoreapp3.1/AwesomeProject.dll
+/Users/mikaelalundsgard/RiderProjects/AwesomeProject/AwesomeProject/obj/Debug/netcoreapp3.1/AwesomeProject.pdb
